@@ -1,1 +1,2 @@
-# paper.md
+# Summary: 
+A DNA fragment assembly based on the overlap layout consensus approach using the RRHGA is presented. The RRHGA utilize PALS as an evolutionary operator to order the fragment while minimizing the number of the contig. The proposed framework consists of two objectives: (a) maximizing the sum of the overlapping surface between the two adjacent fragments using the overlap score as a fitness value, and (b) minimizing the number of contigs by using the PALS as an evolutionary operator. The fitness value and the number of contigs are used as a comparison metric. To framework is evaluated on 25 benchmarks datasets.  
