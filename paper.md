@@ -1,3 +1,5 @@
+<p style="font-size:160%;">This is a paragraph.</p>
+ <p style="text-align:center;">Centered paragraph.</p> 
 # PythoFragam: A Python-based Optimization Tool for DNA Fragment 
 
 ## Uzma* and Zahid Halim 
