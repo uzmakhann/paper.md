@@ -14,6 +14,7 @@ uzma@giki.edu.pk ,zahid.halim@giki.edu.pk
 <h6 style="font-family:verdana;">Implementation and Availability:</h6>  The framework and its associated tool is implemented using python as a programming language and the code is available at https://www.minrg.org/toolsanddata 
 <h6 style="font-family:verdana;"> Contact:</h6>uzma@giki.edu.pk </p></p></p>
   <***>
+  style="border: none;">
 hr { display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}
   <h6 style="font-family:verdana;">1 Introduction</h6>
   <p style="font-size:160%;"> <p style="text-align:center;"><p style="font-family:courier;">
