@@ -1,6 +1,7 @@
 
  
 <h1 style="font-family:verdana;"> PythoFragam: A Python-based Optimization Tool for DNA Fragment</h1> 
+<style>
 p.main {
   text-align: justify;
 }
@@ -55,3 +56,5 @@ The experiments carried on the proposed tool shows that when PALS is used as an 
 [Hughes,James Alexande. "Restarting and recentering genetic algorithm variations for DNA fragment assembly: The necessity of a multi-strategy approach." *Biosystems.* Science Direct. December 2016](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hughes%2C+J.A.%2C+Houghten%2CS.%2C+%26+Ashlock%2CD.+%282016%29+Restarting+and+recentering+genetic+algorithm+variations+for+DNA+fragment+assembly%3A+The+necessity+of+a+multi-strategy+approach.+Biosystems%2C+150%2C+35-45.&btnG=)
 
 [Hughes,James. Houghten,Sheridan.Mallén-Fullerton,Guillermo.Ashlock,Daniel."Recentering and Restarting Genetic Algorithm variations for DNA Fragment Assembly." Computational Intelligence in Bioinformatics and Computational Biology .  IEEE .  30 June 2014 .](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hughes+J.%2C+Houghten%2CS.%2C+Mallen-Fullerton%2CG.M.+and+Ashlock%2CD.+%282014%29+Recentering+and+restarting+genetic+algorithm+variations+for+DNA+fragment+assembly.+In+IEEE+Conference+on+Computational+Intelligence+in+Bioinformatics+and+Computational+Biology%2C+1-8.&btnG=) 
+
+</style>
