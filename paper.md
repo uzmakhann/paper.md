@@ -1,5 +1,5 @@
-<p style="font-size:160%;">This is a paragraph.</p>
- <p style="text-align:center;">Centered paragraph.</p> 
+
+ 
 # PythoFragam: A Python-based Optimization Tool for DNA Fragment 
 
 ## Uzma* and Zahid Halim 
@@ -7,10 +7,13 @@ uzma@giki.edu.pk ,zahid.halim@giki.edu.pk
 ### Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi 
 ***
 #### <b>Abstract
+ <p style="font-size:160%;">
+  <p style="text-align:center;">
 ##### <b>Motivation: A python-based tool and allied algorithm is presented that addresses the optimization of DNA fragment assembly using overlap layout consensus approach. We overcome the problem of reconstructing the original DNA from the fragments. The work explores multiple possible solutions using an artificial intelligence method called the Restarting and Recentering Hybrid Genetic Algorithm (RRHGA). The fragments are ordered based on minimizing the number of contigs using Power-Aware Local Search (PALS) algorithm. The quality of the proposed solution improves through two objective functions.
 ###### <b> Summary: A DNA fragment assembly based on the overlap layout consensus approach using the RRHGA is presented. The RRHGA utilize PALS as an evolutionary operator to order the fragment while minimizing the number of the contig. The proposed framework consists of two objectives: (a) maximizing the sum of the overlapping surface between the two adjacent fragments using the overlap score as a fitness value, and (b) minimizing the number of contigs by using the PALS as an evolutionary operator. The fitness value and the number of contigs are used as a comparison metric. To framework is evaluated on 25 benchmarks datasets.  
 ###### <b> Implementation and Availability: The framework and its associated tool is implemented using python as a programming language and the code is available at https://www.minrg.org/toolsanddata 
 ###### <b> Contact: uzma@giki.edu.pk 
+  </p></p>
   ***
  ###### <b> 1 Introduction
   
