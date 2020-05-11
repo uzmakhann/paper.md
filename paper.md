@@ -1,7 +1,9 @@
-
+<html>
+<head>
+<style>
  
 <h1 style="font-family:verdana;"> PythoFragam: A Python-based Optimization Tool for DNA Fragment</h1> 
-<style>
+
 p.main {
   text-align: justify;
 }
