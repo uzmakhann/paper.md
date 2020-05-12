@@ -1,22 +1,4 @@
-<!DOCTYPE html>
 
- <html>
-<head>
-<style>
-h1 {
-  text-align: center;
-}
-
-p.date {
-  text-align: right;
-}
-
-p.main {
-  text-align: justify;
-}
-</style>
-</head>
-<body>
 <h1 style="font-family:verdana;"> PythoFragam: A Python-based Optimization Tool for DNA Fragment</h1> 
 <h2 style="font-family:verdana;"> Uzma* and Zahid Halim </h2>
 uzma@giki.edu.pk ,zahid.halim@giki.edu.pk
@@ -24,9 +6,8 @@ uzma@giki.edu.pk ,zahid.halim@giki.edu.pk
 <hr>
 <h4 style="font-family:verdana;">Abstract</h4>
 <h5 style="font-family:verdana;">Motivation:</h5><p style="font-size:160%;"> <p style="font-family:courier;">
-<p class="main"> A python-based tool and allied algorithm is presented that addresses the optimization of DNA fragment assembly using overlap layout consensus approach. We overcome the problem of reconstructing the original DNA from the fragments. The work explores multiple possible solutions using an artificial intelligence method called the Restarting and Recentering Hybrid Genetic Algorithm (RRHGA). The fragments are ordered based on minimizing the number of contigs using Power-Aware Local Search (PALS) algorithm. The quality of the proposed solution improves through two objective functions.</p>
- </body>
-</html>
+A python-based tool and allied algorithm is presented that addresses the optimization of DNA fragment assembly using overlap layout consensus approach. We overcome the problem of reconstructing the original DNA from the fragments. The work explores multiple possible solutions using an artificial intelligence method called the Restarting and Recentering Hybrid Genetic Algorithm (RRHGA). The fragments are ordered based on minimizing the number of contigs using Power-Aware Local Search (PALS) algorithm. The quality of the proposed solution improves through two objective functions.
+
 <h5 style="font-family:verdana;">Summary:</h5>
   A DNA fragment assembly based on the overlap layout consensus approach using the RRHGA is presented. The RRHGA utilize PALS as an evolutionary operator to order the fragment while minimizing the number of the contig. The proposed framework consists of two objectives: (a) maximizing the sum of the overlapping surface between the two adjacent fragments using the overlap score as a fitness value, and (b) minimizing the number of contigs by using the PALS as an evolutionary operator. The fitness value and the number of contigs are used as a comparison metric. To framework is evaluated on 25 benchmarks datasets.  
 <h6 style="font-family:verdana;">Implementation and Availability:</h6>  The framework and its associated tool is implemented using python as a programming language and the code is available at https://www.minrg.org/toolsanddata 
