@@ -1,5 +1,21 @@
 
- 
+ <html>
+<head>
+<style>
+h1 {
+  text-align: center;
+}
+
+p.date {
+  text-align: right;
+}
+
+p.main {
+  text-align: justify;
+}
+</style>
+</head>
+<body>
 <h1 style="font-family:verdana;"> PythoFragam: A Python-based Optimization Tool for DNA Fragment</h1> 
 <h2 style="font-family:verdana;"> Uzma* and Zahid Halim </h2>
 uzma@giki.edu.pk ,zahid.halim@giki.edu.pk
